@@ -5,9 +5,9 @@ Bioinformatic and computational scripts for developing the mASCI
 /qiime scripts for bioinformatic analyses
 
 ## mASCI 
-/prep prepare environmental data 
-/titan TITAN analysis
-/oe OE and OE.asv indices
+/prep prepare environmental data <br />
+/titan TITAN analysis <br />
+/oe OE and OE.asv indices <br />
 /mmi MMI and MMI.asv indices
 
 ## Traits
